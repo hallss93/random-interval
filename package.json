@@ -1,0 +1,32 @@
+{
+  "name": "random-interval",
+  "version": "1.0.0",
+  "description": "Module for random interval.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hallss93/random-interval.git"
+  },
+  "keywords": [
+    "array",
+    "obj",
+    "object",
+    "random",
+    "interval",
+    "min",
+    "minimal",
+    "max",
+    "js",
+    "javascript",
+    "reduce"
+  ],
+  "author": "Hallss <hallss93@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hallss93/random-interval/issues"
+  },
+  "homepage": "https://github.com/hallss93/random-interval#readme"
+}
